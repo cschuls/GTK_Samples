@@ -1,0 +1,4 @@
+This folder will contain various sample programs to illustrate the functionality of GTK widgets for GTK3.
+These programs do not specifically perform any complex functions.  They are built to provide an example
+of how to create and use various GTK widgets.
+
